@@ -1,0 +1,22 @@
+.all {
+    font-family: "Josefin Sans", sans-serif;
+  }
+    .container {
+      width: 560px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    
+    /* Định dạng tiêu đề */
+    h1 {
+      color: rgb(19, 151, 151);
+    }
+    /* Định dạng đoạn chữ nghiêng */
+  p em {
+    font-style: italic;
+  }
+    /* Định dạng tin liên quan */
+  .related-news {
+    background-color: rgb(66, 189, 189);
+    padding: 10px;
+    color: white;}
